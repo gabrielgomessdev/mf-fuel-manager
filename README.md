@@ -1,2 +1,1 @@
-# mf-fuel-manager
-Aplicativo desenvolvido durante o microfundamento de Desenvolvimento de Aplicações Móveis.
+Aplicativo desenvolvido durante o microfundamento de Desenvolvimento de Aplicações Móveis da PUC Minas.
